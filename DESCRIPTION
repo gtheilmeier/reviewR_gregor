@@ -8,9 +8,16 @@ Authors@R:
            email = "first@test.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Tests and develops my packagabilities, which need to be developed more than tested.
+GEts the year of publication of movies in df: movies
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
 Imports: 
-    forcats
+    forcats,
+    dplyr,
+    rlang,
+    ggplot2movies,
+    ggrepel,
+    ggplot2,
+    magrittr
