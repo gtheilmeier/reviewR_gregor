@@ -18,6 +18,5 @@ Make a binary factor
 Create a factor vector of n elements, labeled A and B.
 }
 \examples{
-testfun(76)
-
+testFun(76)
 }

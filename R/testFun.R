@@ -6,8 +6,8 @@
 #' @return factor
 #' @export
 #'
-#' @examples testfun(76)
-#'
+#' @examples
+#' testFun(76)
 testFun <- function(n) {
   base::factor(
     base::sample(0:1, n, TRUE
